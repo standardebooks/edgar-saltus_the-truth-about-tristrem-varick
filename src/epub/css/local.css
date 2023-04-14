@@ -106,3 +106,7 @@ blockquote [xml|lang]{
 		align-self: start;
 	}
 }
+
+[epub|type~="z3998:signature"]{
+	font-style: italic;
+}
