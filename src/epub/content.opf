@@ -28,46 +28,53 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Truth About Tristrem Varick</dc:title>
 		<meta property="file-as" refines="#title">Truth About Tristrem Varick, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Novel</dc:title>
+		<meta property="file-as" refines="#subtitle">Novel, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Truth About Tristrem Varick: A Novel</dc:title>
+		<meta property="file-as" refines="#fulltitle">Truth About Tristrem Varick, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A righteous, idealistic young New Yorker falls for a singer and experiences the thorny sides of society and love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;After missing out on an inheritance of seven million dollars and recovering it through legal means, who would give the money away? Tristrem Varick would. This righteous and idealistic young New Yorker is the epitome of goodness.&lt;/p&gt;
+			&lt;p&gt;When he returns home after traveling Europe in his adolescent years, Tristrem meets Viola Raritan, a stunning but jaded and indifferent aspiring singer, and falls head over heels in love with her. Initially rejecting his advances, Viola suddenly changes her mind, only to break off the engagement just as quickly and disappear. Convinced that a misunderstanding lies at the heart of her disappearance, Tristrem sets out to find her.&lt;/p&gt;
+			&lt;p&gt;Although now largely forgotten, &lt;a href="https://standardebooks.org/ebooks/edgar-saltus"&gt;Edgar Saltus&lt;/a&gt; was a successful writer in the late 19th century United States. After making his debut with two pessimistic-philosophical works, he turned to fiction writing, producing a series of novels reminiscent of the great European authors of decadent literature. &lt;i&gt;The Truth About Tristrem Varick&lt;/i&gt; is his second novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33099</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/truthabouttristrem00saltrich</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-saltus_the-truth-about-tristrem-varick</meta>
 		<dc:creator id="author">Edgar Saltus</dc:creator>
 		<meta property="file-as" refines="#author">Saltus, Edgar</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edgar Evertson Saltus</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Saltus</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80036685</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Anne Goldthwaite</dc:contributor>
+		<meta property="file-as" refines="#artist">Goldthwaite, Anne</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Anne_Goldthwaite</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82045058</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Adam Buchbinder</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Buchbinder, Adam</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Bob Reus</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Reus, Bob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.bobre.us</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
