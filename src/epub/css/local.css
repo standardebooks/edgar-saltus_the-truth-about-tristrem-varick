@@ -61,6 +61,10 @@ section[epub|type~="dedication"] > *{
 	section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
+
+	section[epub|type~="dedication"] footer{
+		align-self: start;
+	}
 }
 
 [epub|type~="z3998:poem"] p,
@@ -95,12 +99,6 @@ blockquote[xml|lang]{
 
 #dedication > p{
 	text-transform: uppercase;
-}
-
-@supports(display: flex){
-	section[epub|type~="dedication"] footer{
-		align-self: start;
-	}
 }
 
 section[epub|type~="dedication"] footer{
