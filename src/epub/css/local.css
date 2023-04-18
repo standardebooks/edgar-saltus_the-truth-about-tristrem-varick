@@ -98,7 +98,7 @@ blockquote[xml|lang]{
 }
 
 #dedication > p{
-	text-transform: uppercase;
+	font-variant: small-caps;
 }
 
 section[epub|type~="dedication"] footer{
