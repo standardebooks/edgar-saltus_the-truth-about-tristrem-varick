@@ -41,7 +41,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33099</dc:source>
 		<dc:source>https://archive.org/details/truthabouttristrem00saltrich</dc:source>
-		<meta property="se:word-count">43530</meta>
+		<meta property="se:word-count">43143</meta>
 		<meta property="se:reading-ease.flesch">71.85</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-saltus_the-truth-about-tristrem-varick</meta>
 		<dc:creator id="author">Edgar Saltus</dc:creator>
