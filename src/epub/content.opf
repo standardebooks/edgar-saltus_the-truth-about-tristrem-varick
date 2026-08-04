@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A righteous, idealistic young New Yorker falls for a singer and experiences the thorny sides of society and love.</dc:abstract>
+		<meta property="schema:abstract">A righteous, idealistic young New Yorker falls for a singer and experiences the thorny sides of society and love.</meta>
 		<dc:description>
 			&lt;p&gt;After missing out on an inheritance of seven million dollars and recovering it through legal means, who would give the money away? Tristrem Varick would. This righteous and idealistic young New Yorker is the epitome of goodness.&lt;/p&gt;
 			&lt;p&gt;When he returns home after traveling Europe in his adolescent years, Tristrem falls head over heels in love with Viola Raritan, an aspiring singer who is stunning but jaded and indifferent. Viola initially rejects his advances, but then suddenly changes her mind, only to break off the engagement just as suddenly before disappearing. Convinced that a misunderstanding lies at the heart of her disappearance, Tristrem sets out to find her.&lt;/p&gt;
